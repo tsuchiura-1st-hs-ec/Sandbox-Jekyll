@@ -22,8 +22,8 @@ title: 電子通信部のブログ
 email: ec-club@ichikosai.net
 description: >- # this means to ignore newlines until "baseurl:"
   茨城県土浦第一高等学校電子通信部のブログです。現在は試験下です。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Sandbox-Jekyll" # the subpath of your site, e.g. /blog
+url: "https://tsuchiura-1st-hs-ec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ichikodentsu
 github_username:  tsuchiura-1st-hs-ec
 
