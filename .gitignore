@@ -1,4 +1,8 @@
-_site/
 .sass-cache/
 .jekyll-cache/
-.jekyll-metadata
+gemfiles/
+node_modules/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
